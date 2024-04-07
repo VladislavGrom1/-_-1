@@ -1,0 +1,1200 @@
+[{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c733"
+  },
+  "Title": "Toy Story1",
+  "ReleaseDate": 2001,
+  "Rating": 0,
+  "Genre": "string",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c734"
+  },
+  "Title": "Jumanji",
+  "ReleaseDate": 1971,
+  "Rating": 3.4,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c735"
+  },
+  "Title": "Grumpier Old Men",
+  "ReleaseDate": 1967,
+  "Rating": 8.1,
+  "Genre": "Drama",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c736"
+  },
+  "Title": "Waiting to Exhale",
+  "ReleaseDate": 1968,
+  "Rating": 4.8,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c737"
+  },
+  "Title": "Father of the Bride Part II",
+  "ReleaseDate": 1985,
+  "Rating": 5.3,
+  "Genre": "Horror",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c738"
+  },
+  "Title": "Heat",
+  "ReleaseDate": 1952,
+  "Rating": 8.3,
+  "Genre": "Horror",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c739"
+  },
+  "Title": "Sabrina",
+  "ReleaseDate": 1962,
+  "Rating": 6.1,
+  "Genre": "Animation",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c73a"
+  },
+  "Title": "Tom and Huck",
+  "ReleaseDate": 2020,
+  "Rating": 8.9,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c73b"
+  },
+  "Title": "Sudden Death",
+  "ReleaseDate": 2019,
+  "Rating": 9.1,
+  "Genre": "Animation",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c73c"
+  },
+  "Title": "GoldenEye",
+  "ReleaseDate": 1989,
+  "Rating": 9.6,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c73d"
+  },
+  "Title": "American President, The",
+  "ReleaseDate": 2017,
+  "Rating": 5.2,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c73e"
+  },
+  "Title": "Dracula: Dead and Loving It",
+  "ReleaseDate": 1975,
+  "Rating": 7.8,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c73f"
+  },
+  "Title": "Balto",
+  "ReleaseDate": 1957,
+  "Rating": 3.5,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c740"
+  },
+  "Title": "Nixon",
+  "ReleaseDate": 2010,
+  "Rating": 7,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c741"
+  },
+  "Title": "Cutthroat Island",
+  "ReleaseDate": 2012,
+  "Rating": 5.4,
+  "Genre": "Horror",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c742"
+  },
+  "Title": "Casino",
+  "ReleaseDate": 1994,
+  "Rating": 9.3,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c743"
+  },
+  "Title": "Sense and Sensibility",
+  "ReleaseDate": 1955,
+  "Rating": 5.5,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c744"
+  },
+  "Title": "Four Rooms",
+  "ReleaseDate": 1984,
+  "Rating": 7.9,
+  "Genre": "Drama",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c745"
+  },
+  "Title": "Ace Ventura: When Nature Calls",
+  "ReleaseDate": 2019,
+  "Rating": 3.6,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c746"
+  },
+  "Title": "Money Train",
+  "ReleaseDate": 1985,
+  "Rating": 7.6,
+  "Genre": "Thriller",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c747"
+  },
+  "Title": "Get Shorty",
+  "ReleaseDate": 1985,
+  "Rating": 4.9,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c748"
+  },
+  "Title": "Copycat",
+  "ReleaseDate": 1996,
+  "Rating": 5.7,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c749"
+  },
+  "Title": "Assassins",
+  "ReleaseDate": 1988,
+  "Rating": 9.7,
+  "Genre": "Thriller",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c74a"
+  },
+  "Title": "Powder",
+  "ReleaseDate": 1989,
+  "Rating": 9.3,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c74b"
+  },
+  "Title": "Leaving Las Vegas",
+  "ReleaseDate": 1965,
+  "Rating": 4.5,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c74c"
+  },
+  "Title": "Othello",
+  "ReleaseDate": 1990,
+  "Rating": 9.3,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c74d"
+  },
+  "Title": "Now and Then",
+  "ReleaseDate": 1961,
+  "Rating": 4.8,
+  "Genre": "Thriller",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c74e"
+  },
+  "Title": "Persuasion",
+  "ReleaseDate": 1992,
+  "Rating": 6.3,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c74f"
+  },
+  "Title": "City of Lost Children, The",
+  "ReleaseDate": 1963,
+  "Rating": 5.8,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c750"
+  },
+  "Title": "Shanghai Triad",
+  "ReleaseDate": 2009,
+  "Rating": 4.3,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c751"
+  },
+  "Title": "Dangerous Minds",
+  "ReleaseDate": 1988,
+  "Rating": 8.7,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c752"
+  },
+  "Title": "Twelve Monkeys",
+  "ReleaseDate": 1986,
+  "Rating": 7.6,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c753"
+  },
+  "Title": "Wings of Courage",
+  "ReleaseDate": 1961,
+  "Rating": 8.7,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c754"
+  },
+  "Title": "Babe",
+  "ReleaseDate": 1986,
+  "Rating": 9.7,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c755"
+  },
+  "Title": "Carrington",
+  "ReleaseDate": 2000,
+  "Rating": 5.2,
+  "Genre": "Animation",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c756"
+  },
+  "Title": "Dead Man Walking",
+  "ReleaseDate": 1978,
+  "Rating": 7.9,
+  "Genre": "Thriller",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c757"
+  },
+  "Title": "Across the Sea of Time",
+  "ReleaseDate": 2006,
+  "Rating": 5.3,
+  "Genre": "Drama",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c758"
+  },
+  "Title": "It Takes Two",
+  "ReleaseDate": 2017,
+  "Rating": 6.1,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c759"
+  },
+  "Title": "Clueless",
+  "ReleaseDate": 1959,
+  "Rating": 5.7,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c75a"
+  },
+  "Title": "Cry, the Beloved Country",
+  "ReleaseDate": 1987,
+  "Rating": 5.6,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c75b"
+  },
+  "Title": "Richard III",
+  "ReleaseDate": 1963,
+  "Rating": 3.4,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c75c"
+  },
+  "Title": "Dead Presidents",
+  "ReleaseDate": 1980,
+  "Rating": 9.2,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c75d"
+  },
+  "Title": "Restoration",
+  "ReleaseDate": 2001,
+  "Rating": 4.4,
+  "Genre": "Horror",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c75e"
+  },
+  "Title": "Mortal Kombat",
+  "ReleaseDate": 1995,
+  "Rating": 3.8,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c75f"
+  },
+  "Title": "To Die For",
+  "ReleaseDate": 1999,
+  "Rating": 3.3,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c760"
+  },
+  "Title": "How to Make an American Quilt",
+  "ReleaseDate": 2015,
+  "Rating": 8.8,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c761"
+  },
+  "Title": "Seven",
+  "ReleaseDate": 2013,
+  "Rating": 5.1,
+  "Genre": "Horror",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c762"
+  },
+  "Title": "Pocahontas",
+  "ReleaseDate": 2018,
+  "Rating": 5.5,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c763"
+  },
+  "Title": "When Night Is Falling",
+  "ReleaseDate": 1987,
+  "Rating": 4.6,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c764"
+  },
+  "Title": "Usual Suspects, The",
+  "ReleaseDate": 1992,
+  "Rating": 7.1,
+  "Genre": "Horror",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c765"
+  },
+  "Title": "Guardian Angel",
+  "ReleaseDate": 2013,
+  "Rating": 4.8,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c766"
+  },
+  "Title": "Mighty Aphrodite",
+  "ReleaseDate": 1974,
+  "Rating": 4.1,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c767"
+  },
+  "Title": "Lamerica",
+  "ReleaseDate": 2016,
+  "Rating": 7.1,
+  "Genre": "Thriller",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c768"
+  },
+  "Title": "Big Green, The",
+  "ReleaseDate": 2000,
+  "Rating": 4.3,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c769"
+  },
+  "Title": "Georgia",
+  "ReleaseDate": 1985,
+  "Rating": 5.6,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c76a"
+  },
+  "Title": "Kids of the Round Table",
+  "ReleaseDate": 1953,
+  "Rating": 7.8,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c76b"
+  },
+  "Title": "Home for the Holidays",
+  "ReleaseDate": 1990,
+  "Rating": 6,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c76c"
+  },
+  "Title": "Postman, The",
+  "ReleaseDate": 1999,
+  "Rating": 3.5,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c76d"
+  },
+  "Title": "Confessional, The",
+  "ReleaseDate": 2016,
+  "Rating": 8.2,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c76e"
+  },
+  "Title": "Indian in the Cupboard, The",
+  "ReleaseDate": 2013,
+  "Rating": 5.5,
+  "Genre": "Animation",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c76f"
+  },
+  "Title": "Eye for an Eye",
+  "ReleaseDate": 1963,
+  "Rating": 3.5,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c770"
+  },
+  "Title": "Mr. Holland's Opus",
+  "ReleaseDate": 1993,
+  "Rating": 5.6,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c771"
+  },
+  "Title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+  "ReleaseDate": 1963,
+  "Rating": 4.8,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c772"
+  },
+  "Title": "Two if by Sea",
+  "ReleaseDate": 1993,
+  "Rating": 6.6,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c773"
+  },
+  "Title": "Bio-Dome",
+  "ReleaseDate": 1955,
+  "Rating": 8,
+  "Genre": "Thriller",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c774"
+  },
+  "Title": "Lawnmower Man 2: Beyond Cyberspace",
+  "ReleaseDate": 1955,
+  "Rating": 5.5,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c775"
+  },
+  "Title": "Two Bits",
+  "ReleaseDate": 2016,
+  "Rating": 9.8,
+  "Genre": "Thriller",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c776"
+  },
+  "Title": "French Twist",
+  "ReleaseDate": 2003,
+  "Rating": 9.1,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c777"
+  },
+  "Title": "Friday",
+  "ReleaseDate": 1997,
+  "Rating": 6.3,
+  "Genre": "Thriller",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c778"
+  },
+  "Title": "From Dusk Till Dawn",
+  "ReleaseDate": 2003,
+  "Rating": 8.3,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c779"
+  },
+  "Title": "Fair Game",
+  "ReleaseDate": 2010,
+  "Rating": 6.2,
+  "Genre": "Horror",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c77a"
+  },
+  "Title": "Kicking and Screaming",
+  "ReleaseDate": 1982,
+  "Rating": 3.3,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c77b"
+  },
+  "Title": "Misérables, Les",
+  "ReleaseDate": 1962,
+  "Rating": 4.8,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c77c"
+  },
+  "Title": "Bed of Roses",
+  "ReleaseDate": 2016,
+  "Rating": 9.8,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c77d"
+  },
+  "Title": "Big Bully",
+  "ReleaseDate": 1962,
+  "Rating": 5.7,
+  "Genre": "Thriller",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c77e"
+  },
+  "Title": "Screamers",
+  "ReleaseDate": 1958,
+  "Rating": 3.9,
+  "Genre": "Animation",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c77f"
+  },
+  "Title": "Nico Icon",
+  "ReleaseDate": 1979,
+  "Rating": 5.5,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c780"
+  },
+  "Title": "Crossing Guard, The",
+  "ReleaseDate": 1963,
+  "Rating": 9.4,
+  "Genre": "Comedy",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c781"
+  },
+  "Title": "Juror, The",
+  "ReleaseDate": 1992,
+  "Rating": 5.8,
+  "Genre": "Horror",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c782"
+  },
+  "Title": "White Balloon, The",
+  "ReleaseDate": 1992,
+  "Rating": 9.6,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c783"
+  },
+  "Title": "Things to Do in Denver When You're Dead",
+  "ReleaseDate": 1986,
+  "Rating": 7.9,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c784"
+  },
+  "Title": "Antonia's Line",
+  "ReleaseDate": 1993,
+  "Rating": 3.3,
+  "Genre": "Thriller",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c785"
+  },
+  "Title": "Once Upon a Time... When We Were Colored",
+  "ReleaseDate": 1951,
+  "Rating": 5.4,
+  "Genre": "Drama",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c786"
+  },
+  "Title": "Last Summer in the Hamptons",
+  "ReleaseDate": 2018,
+  "Rating": 9.3,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c787"
+  },
+  "Title": "Angels and Insects",
+  "ReleaseDate": 2019,
+  "Rating": 4.9,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c788"
+  },
+  "Title": "White Squall",
+  "ReleaseDate": 1991,
+  "Rating": 9.1,
+  "Genre": "Drama",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c789"
+  },
+  "Title": "Dunston Checks In",
+  "ReleaseDate": 1966,
+  "Rating": 4.5,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c78a"
+  },
+  "Title": "Black Sheep",
+  "ReleaseDate": 1953,
+  "Rating": 8.3,
+  "Genre": "Drama",
+  "Cinema": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c78b"
+  },
+  "Title": "Nick of Time",
+  "ReleaseDate": 1950,
+  "Rating": 5.8,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c78c"
+  },
+  "Title": "The Journey of August King",
+  "ReleaseDate": 1985,
+  "Rating": 8.6,
+  "Genre": "Horror",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c78d"
+  },
+  "Title": "Mary Reilly",
+  "ReleaseDate": 1953,
+  "Rating": 5.6,
+  "Genre": "Drama",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c78e"
+  },
+  "Title": "Vampire in Brooklyn",
+  "ReleaseDate": 2002,
+  "Rating": 8.7,
+  "Genre": "Drama",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c78f"
+  },
+  "Title": "Beautiful Girls",
+  "ReleaseDate": 2007,
+  "Rating": 3.4,
+  "Genre": "Thriller",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c790"
+  },
+  "Title": "Broken Arrow",
+  "ReleaseDate": 1950,
+  "Rating": 5.2,
+  "Genre": "Drama",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c791"
+  },
+  "Title": "In the Bleak Midwinter",
+  "ReleaseDate": 1954,
+  "Rating": 3.9,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c792"
+  },
+  "Title": "Hate",
+  "ReleaseDate": 2017,
+  "Rating": 8.7,
+  "Genre": "Action",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c793"
+  },
+  "Title": "Shopping",
+  "ReleaseDate": 1969,
+  "Rating": 7.6,
+  "Genre": "Drama",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c794"
+  },
+  "Title": "Heidi Fleiss: Hollywood Madam",
+  "ReleaseDate": 1985,
+  "Rating": 7,
+  "Genre": "Crime",
+  "Cinema": {
+    "$oid": "660d22f95d229501a3bc552d"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c795"
+  },
+  "Title": "City Hall",
+  "ReleaseDate": 2014,
+  "Rating": 4,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "660d70e519d49ae304d4c796"
+  },
+  "Title": "Bottle Rocket",
+  "ReleaseDate": 1998,
+  "Rating": 7.5,
+  "Genre": "Adventure",
+  "Cinema": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  }
+}]

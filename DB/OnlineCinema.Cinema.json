@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "660d20374e2aafb4d508f5fb"
+  },
+  "Name": "Amediateka",
+  "CompanyOwner": "Amedia",
+  "SubscriptionCost": 600,
+  "DateOfCreation": "2015-06-20"
+},
+{
+  "_id": {
+    "$oid": "660d22f95d229501a3bc552d"
+  },
+  "Name": "Kinopoisk",
+  "CompanyOwner": "Yandex",
+  "SubscriptionCost": 300,
+  "DateOfCreation": "2018-01-01"
+},
+{
+  "_id": {
+    "$oid": "660d6a2c981f3800d88405e0"
+  },
+  "Name": "Ivi",
+  "CompanyOwner": "ivi",
+  "SubscriptionCost": 400,
+  "DateOfCreation": "2010-01-01"
+},
+{
+  "_id": {
+    "$oid": "660d6a2c981f3800d88405e1"
+  },
+  "Name": "Okko",
+  "CompanyOwner": "AO «New opportunities»",
+  "SubscriptionCost": 600,
+  "DateOfCreation": "2009-01-01"
+},
+{
+  "_id": {
+    "$oid": "660d6a2c981f3800d88405e2"
+  },
+  "Name": "Start",
+  "CompanyOwner": "Megaphone",
+  "SubscriptionCost": 300,
+  "DateOfCreation": "2017-01-01"
+},
+{
+  "_id": {
+    "$oid": "660d6a2c981f3800d88405e3"
+  },
+  "Name": "Premier",
+  "CompanyOwner": "TNT",
+  "SubscriptionCost": 30,
+  "DateOfCreation": "2018-01-01"
+},
+{
+  "_id": {
+    "$oid": "660d6a2c981f3800d88405e4"
+  },
+  "Name": "More.tv",
+  "CompanyOwner": "STS",
+  "SubscriptionCost": 30,
+  "DateOfCreation": "2019-01-01"
+}]
